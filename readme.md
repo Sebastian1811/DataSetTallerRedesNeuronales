@@ -1,5 +1,10 @@
 # Taller de redes neuronales 
 
+# Integrantes:
+
+- Jhoan Sebastian Andica 1859966-3743
+- Diego Fernando Delgado 1859819-3743
+- David Rios Gonzales 1765662-3743
 
 Para desarrollar el perceptron multicapa se seleccióno del DataSet de clasificación de asteroides de la nasa.
 
