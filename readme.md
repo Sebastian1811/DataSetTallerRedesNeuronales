@@ -19,5 +19,6 @@ Como parte del preprocesamiento del DataSet se seleccionaron las siguientes colu
 
 Luego del entrenamiento de la red neuronal la salida que debe retornar es 1 o 0 donde se determina si el asteroide es riesgoso o no.
 
+Debido a que el dataset esta desbalanceado, mas o menos en una proporción de 6 a 1, se determina que se debe entrenar el modelo usando una muestra aleatoria de 0 para entrenar el modelo.
 
 
